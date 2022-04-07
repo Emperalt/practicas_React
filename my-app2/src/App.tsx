@@ -49,7 +49,7 @@ function App() {
   const inputEl= useRef<any>({});   //hook useRef para cambiar color de boton
   const inputBuscarRef= useRef<any>(''); // HOOK useRef para validar si campo busqueda esta lleno
   
-  
+// VARIABLES CONTEXT API  
 
   let getElementFromApi = (value: any, index: any) => {  //RENDERIZAR COMPONENTE DE ACUERDO AL TIPO
     if (value.type === "button")

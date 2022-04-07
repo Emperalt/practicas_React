@@ -1,0 +1,25 @@
+
+
+.Input-ini{
+    background-color: #e4e3e0;
+    border-color: rgb(190, 175, 175);
+    width: 260px;
+    height:25px ;
+    margin: 10px;
+    font-size: 15px;
+    font-weight:bold ;
+    color: #16213d;
+ 
+ }
+
+ .Input-ini2{
+    background-color: #dfd2ae;
+    border-color: rgb(190, 175, 175);
+    width: 260px;
+    height:25px ;
+    margin: 10px;
+    font-size: 15px;
+    font-weight:bold ;
+    color: #203d88;
+ 
+ }

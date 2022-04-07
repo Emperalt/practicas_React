@@ -1,0 +1,29 @@
+
+
+.Button-ini{
+    background-color: #ffe433;
+    border-color: rgb(48, 11, 182);
+    border-radius: 10px;
+    width: 160px;
+    height:50px ;
+    margin: 10px;
+    font-size: 20px;
+    font-weight:bold ;
+    color: #3f517d;
+    
+ 
+ }
+
+ .Button-can{
+    background-color: #f32a2a;
+    border-color: red;
+    border-radius: 10px;
+    width: 160px;
+    height:50px ;
+    margin: 10px;
+    font-size: 20px;
+    font-weight:bold ;
+    color: #fbfcff;
+    
+ 
+ }

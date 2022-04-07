@@ -18,7 +18,7 @@
 
 .divDatos {
   display: flex;
-  justify-content: space-between;
+  /* justify-content: space-between; */
     
 }
 
@@ -26,14 +26,33 @@
 .divCliente{
   border: solid #b7bbc2 ;
   border-radius: 10px;
+  width: 400px;
+  margin: 10px;
+  align-self: left;
+  text-align: left;
+}
+
+.divScore{
+  border: solid #b7bbc2 ;
+  border-radius: 10px;
   width: 900px;
   margin: 10px;
   align-self: left;
 }
 
+
+
+.divBusqueda{
+  border: solid #b7bbc2 ;
+  border-radius: 10px;
+  width: 900px;
+  margin: 10px;
+  align-self: center;
+}
+
 .buscar{
   border-radius: 5px;
-  width: 500px;
+  width: 400px;
   font-size: 15px;
   margin: 10px;
   align-items: left
@@ -59,4 +78,13 @@
   background-color: #ffe433;
   border-color: rgb(48, 11, 182);
   font-weight:bold ;
+}
+
+.divHeader{
+  width:1350px;
+  height: 50px;
+  position:fixed;
+  text-align: right;
+  background-color: #ffe433;
+  /* padding: 10px; */
 }

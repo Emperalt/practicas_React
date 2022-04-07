@@ -45,6 +45,11 @@ export const apiEntrada: elementApi[] = [
                   value: 'Condado'
                 },
                 {
+                  id :'0',
+                  name: 'Bosque',
+                  value: 'Bosque'
+                },
+                {
                   id :'1',
                   name: 'Carcelen',
                   value: 'Carcelen'
@@ -113,6 +118,11 @@ export const apiEntrada: elementApi[] = [
                   id :'3',
                   name: 'D',
                   value:'10'
+                },
+                {
+                  id :'4',
+                  name: 'E',
+                  value:'15'
                 }
 
 

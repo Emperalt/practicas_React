@@ -126,8 +126,7 @@ function App() {
    setInterval(() => {  //permite setear el valor de una variable occurrido un evento , en este caso cada segundo
      const second:number = new Date().getSeconds();
       try{ 
-      (second%2===0)?inputEl.current.style.backgroundColor="#3f517d":inputEl.current.style.backgroundColor="#ffe433"
-      //(second%2===0) ? inputEl.current// .css("background-color","#3f517d") :console.log('cambio');
+        (second%2===0)?inputEl.current.style.backgroundColor="#3f517d":inputEl.current.style.backgroundColor="#ffe433"    
       }
       catch(e){
        // console.log('Error: '+e)
